@@ -6,7 +6,7 @@ A real-time radar simulation using an Arduino, servo motor, ultrasonic sensor, j
 
 ## 📸 Circuit Image
 
-![Circuit Image](./Joystick-Servo-Sensor/Circuit Image.png)
+![Circuit Image](Joystick-Servo-Sensor/circuit_image.png)
 
 ---
 
