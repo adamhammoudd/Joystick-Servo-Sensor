@@ -6,7 +6,7 @@ A real-time radar simulation using an Arduino, servo motor, ultrasonic sensor, j
 
 ## 📸 Circuit Diagram
 
-![Insert your circuit image here](./circuit_image.png)  
+(Joystick-Servo-Sensor/Joystick-Servo-Sensor/Circuit Image.png)  
 
 ---
 
@@ -103,14 +103,16 @@ angle,distance.
 ## 📦 Folder Structure
 ```
 Joystick-Servo-Sensor/
-├─ Libraries/
-│  ├─ HC-SR04.zip
-│  └─ Servo.zip
-├─ Processing Code/
-│  └─ processing_joystick_servo_sensor/
-│     └─ processing_joystick_servo_sensor.pde
-├─ Circuit Image.png
-├─ Joystick-Servo-Sensor.ino
+├─ Joystick-Servo-Sensor/
+│ ├─ Libraries/
+│ │  ├─ HC-SR04.zip
+│ │  └─ Servo.zip
+│ ├─ Processing Code/
+│ │  └─ processing_joystick_servo_sensor/
+│ │     └─ processing_joystick_servo_sensor.pde
+│ ├─ Circuit Image.png
+│ ├─ Joystick-Servo-Sensor.ino
+├─ LICENSE
 └─ README.md
 ```
 ## 🔧 Customization
