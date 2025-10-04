@@ -120,5 +120,5 @@ Joystick-Servo-Sensor/
 - Adjust beam persistence: change fill(0, 8) in draw() for longer/shorter fading.
 - Adjust servo response: tweak the easing factor in the Arduino code for smoother or faster movement.
 
-⚡ License
-This project is open-source and free to use under the MIT License.
+## ⚡ License
+This project is open-source and free to use under the ![MIT License](LICENSE).
