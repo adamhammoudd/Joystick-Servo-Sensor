@@ -121,4 +121,4 @@ Joystick-Servo-Sensor/
 - Adjust servo response: tweak the easing factor in the Arduino code for smoother or faster movement.
 
 ## ⚡ License
-This project is open-source and free to use under the ![MIT License](LICENSE).
+This project is open-source and free to use under the [MIT License](LICENSE).
